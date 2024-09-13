@@ -2,11 +2,16 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15884921&assignment_repo_type=AssignmentRepo)
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
-
-•	Language and Terminology: This is crucial because it shapes the language and the terminologies to use. This approach respects their knowledge and allows for efficient communication.
-•	Depth of Information: Depending on their expertise level, you will know how to break down complex ideas and split them into smaller, easier-to-digest chunks.
-•	Presentation Style: You will know if to use straightforward, technical diagrams if they are experts or you will need to use visuals step-by-step guides to simply the presentations.
-•	Questions and Engagement: On this you will know if you will encourage in-depth  questions/technical debates which will help you plan ahead for those engagements that dive deep or you will need to focus on clarifying concepts and reinforcing understanding rather than diving into intricate technicalities.
+<br/>
+<br/>
+•	Language and Terminology: This is crucial because it shapes the language and the terminologies to use. This approach respects their knowledge and allows for efficient communication.<br/>
+<br/>
+•	Depth of Information: Depending on their expertise level, you will know how to break down complex ideas and split them into smaller, easier-to-digest chunks.<br/>
+<br/>
+•	Presentation Style: You will know if to use straightforward, technical diagrams if they are experts or you will need to use visuals step-by-step guides to simply the presentations.<br/>
+<br/>
+•	Questions and Engagement: On this you will know if you will encourage in-depth  questions/technical debates which will help you plan ahead for those engagements that dive deep or you will need to focus on clarifying concepts and reinforcing understanding rather than diving into intricate technicalities.<br/>
+<br/>
 
 ## 2. What are some strategies to tailor your content to different audience types?
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
